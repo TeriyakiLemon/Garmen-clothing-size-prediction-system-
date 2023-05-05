@@ -1,0 +1,8 @@
+USA size,Europe size,UK size,front waist length,back waist length,center front,bust,across back,accross chest,arm circ.,sleeve length (short),shoulder seam,waist,widest hip circle,waist to lower hip,skirt length
+4,34,8,15.5,15.5,13,30,13,13,9,8,4.5,22,32,6,21
+6,36,10,16,15.5,13,30.5,13.5,14,9.5,8,5,23,32.5,6,21
+8,38,12,16,15.5,13,31.5,13.5,14,9.5,8,5,24,33.5,6,21
+10,40,14,16.5,16,13,32.5,14,14.5,10,8,5,25,34.5,6,22
+12,42,16,17,16.5,14,34,14.5,15,10.5,9,5.5,26.5,36,7,22
+14,44,18,17.5,16.5,14,36,15,15,10.5,9,5.5,28,38,7,22
+16,46,20,18,17,14,38,15.5,15,11.5,10,5.5,30,40,7,22
